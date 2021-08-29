@@ -1,0 +1,75 @@
+
+
+#Section1 {
+  font-size: 25px;
+  text-align: left;
+  background-image: url(https://www.nawpic.com/media/2020/desktop-backgrounds-nawpic-1.png);
+  margin: 0px;
+  padding: 5px 0px;
+  width: 3400px;
+}
+
+#Section2 {
+font-size: 20px;
+font-style: none;
+background-image: url(https://wallpaperstock.net/wallpapers/thumbs1/55315hd.jpg);
+width: 100%;
+clear: both;
+content: '';
+display:table;
+width: 300px;
+height: 300px;
+
+}
+
+h1 {
+font-family: sans-serif;
+padding: 0px 25px;
+}
+h2 {
+  font-family: sans-serif;
+}
+.Planetas {
+  width: 3400px;
+  margin: 0 auto;
+}
+.Planetas ul li a {
+  text-decoration: none;
+  font-family: sans-serif;
+}
+img {
+ width: 300px;
+}
+
+
+nav {
+  float: left;
+}
+
+nav ul li {
+  list-style: none;
+  margin-left: 0px;
+  padding: 25px 0;
+  float: left;
+  font-weight: none;
+  position: relative;
+  list-style: none;
+}
+.info {
+  weight: 3400px;
+  padding: 5px;
+}
+
+.info p {
+  font-family: sans-serif;
+  padding: 5px;
+
+
+}
+
+.Pintura img {
+  padding-left: 1650px;
+  position: absolute;
+  height: 200px;
+  width: auto;
+}
